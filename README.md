@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - **Living in:** Cambridge, MA
 - **Interning at:** Ikigai Labs
 - **Attending:** Princeton University
-- **Interested in:** NLP, AI/ML, LLMs, Cybersecurity, Game Development
+- **Interested in:** NLP, AI/ML, LLMs, Information Security, Game Development
 
 ## 🌐 Websites 
 
