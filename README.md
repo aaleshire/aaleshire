@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-## 🙋‍♀️ About Me 🙋‍♀️🙋‍♀️
+## 👩‍💻 About Me
 
 **Currently...**
 - **Living in:** Cambridge, MA
