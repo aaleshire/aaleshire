@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 ## 🌐 Websites 
 
 - **LinkedIn:** https://www.linkedin.com/in/abigail-aleshire/
-- **Personal:** Coming soon!
+- **Personal:** https://www.abbyaleshire.com/
 
 ## 📂 Projects
 
